@@ -14,7 +14,7 @@ Installation / Usage
 * Download the repository using URL
 
 ```html
-    https://bitbucket.org/bhagawatikumar/commitcounter/downloads
+   https://github.com/bhagawatikumar/commitCounter/archive/master.zip 
 ```   
 
 
@@ -27,13 +27,13 @@ Installation / Usage
 * Unzip the downloaded folder 
 
 ```shell
-    $ sudo unzip bhagawatikumar-commitcounter-{repo-slug}.zip
+    $ sudo unzip commitCounter-master.zip
 ```
 
 * Go to folder
     
 ```shell
-    $ cd bhagawatikumar-commitcounter-{repo-slug}/
+    $ cd commitCounter-master/
 ``` 
 
 * Run the following command to get the count
@@ -66,7 +66,6 @@ Add New Service Except GitHub/BitBucket
 
 3. Add a switch case statement in method processRequest for the new service 
 
-Thats it...
 
 
 Author
